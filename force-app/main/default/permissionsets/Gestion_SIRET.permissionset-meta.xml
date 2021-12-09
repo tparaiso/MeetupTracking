@@ -5,11 +5,6 @@
         <field>Account.Raison_Sociale__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.SIRET__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Gestion SIRET</label>
 </PermissionSet>
