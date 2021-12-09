@@ -408,4 +408,15 @@
             <default>false</default>
         </values>
     </picklistValues>
+    <picklistValues>
+        <picklist>siretisation__c</picklist>
+        <values>
+            <fullName>actif</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>inactif</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
 </RecordType>
